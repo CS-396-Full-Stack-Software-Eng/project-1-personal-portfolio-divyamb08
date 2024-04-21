@@ -1,4 +1,4 @@
-The site is hosted at https://divyambansal.vercel.app/
+The site is hosted at https://www.divyambansal.com/
 
 # Portfolio Website
 
