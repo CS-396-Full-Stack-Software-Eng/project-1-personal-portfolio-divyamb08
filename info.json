@@ -1,0 +1,53 @@
+{
+  "heroSection": { "name": "Divyam Bansal", "profession": "Software Engineer" },
+  "aboutSection": {
+    "html": "Hello! I'm Divyam Bansal, a software developer and data scientist driven by my passion for unraveling the complexities of real-world challenges. My journey in tech has been fueled by curiosity and the desire to make impactful contributions. Working within dynamic teams, I've found my true calling—leveraging collaborative strengths to innovate and solve problems at scale. My toolkit is a blend of coding prowess and analytical insight, enabling me to turn data into decisions and ideas into reality. Welcome to my portfolio, where each project is a testament to my dedication to excellence and my journey in making a difference."
+  },
+  "experienceSection": {
+    "resumeLink": "https://drive.google.com/file/d/17W-yQp3ZgYTwSCNVqANm4zGD1sfYyEfA/view?usp=sharing",
+    "experiences": [
+      {
+        "key": 2,
+        "organization": "Bajaj Finserv Limited",
+        "position": "Software Developer",
+        "duration": "July 2022 - July 2023",
+        "description": "Built responsive Angular PWA components for flagship application. Developed an application for in-house inventory management.",
+        "skills": "Python, TypeScript, React, React Native, Angular, PWA"
+      },
+      {
+        "key": 3,
+        "organization": "Indian School of Business",
+        "position": "Data Science Intern",
+        "duration": "January 2022 - June 2022",
+        "description": "Developed automated scraping scripts in Python extracting over 4 million rows of data using Selenium and BS4; cleaned and visualized using popular EDA techniques for effective decision making.",
+        "skills": "Python, Pandas, Selenium, Beautiful Soup"
+      }
+    ]
+  },
+  "projectSection": {
+    "githubLink": "https://github.com/divyamb08",
+    "projects": [
+      {
+        "key": 1,
+        "name": "HouseParty Application",
+        "description": "An application to control music for a house party",
+        "link": "http://heavy-music-controller-b0b21d3e8dec.herokuapp.com/",
+        "technologies": "React, Django, Spotify API"
+      },
+      {
+        "key": 2,
+        "name": "Movie Recommendation System",
+        "description": "Content based end to end recommendation system using TMDB APIs",
+        "link": "https://github.com/divyamb08/Movie-Recommender",
+        "technologies": "Python, NLTK"
+      }
+    ]
+  },
+  "contactAndFooterSection": {
+    "email": "divyam.bansal2000@gmail.com",
+    "socialLinks": {
+      "linkedIn": "https://www.linkedin.com/in/divyam-bansal",
+      "github": "https://github.com/divyamb08"
+    }
+  }
+}
